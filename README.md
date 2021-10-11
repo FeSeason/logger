@@ -1,7 +1,7 @@
 #### 用于Node日志输出
 
 ```
-const logger = require('@fe-se/logger')
+const logger = require('@se-fe/logger')
 
 # methods
 
